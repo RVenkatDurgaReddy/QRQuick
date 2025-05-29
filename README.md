@@ -21,7 +21,7 @@ so use this command instead
 npm install --legacy-peer-deps
 
 this would resolve the issue
-and then " npm run "
+and then " npm run dev "
 
 
 mainly fill the api keys through the google cloud firebase as mentioned in 
